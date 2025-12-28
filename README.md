@@ -12,6 +12,7 @@ These insights are then consolidated into a set of portfolio-level financial ind
 
 ## Results Summary
 The results indicate that portfolio number 2 demonstrates superior collection efficiency and more favorable outstanding balance characteristics across multiple comparison dimensions, suggesting a more attractive efficiency–risk profile relative to the alternative portfolio.
+
 **Key takeaway:** Portfolio 2 consistently outperforms the alternative portfolio across efficiency metrics.
 
 ## Project Structure
