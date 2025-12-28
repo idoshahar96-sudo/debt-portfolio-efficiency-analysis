@@ -12,10 +12,12 @@ These insights are then consolidated into a set of portfolio-level financial ind
 
 ## Results Summary
 The results indicate that portfolio number 2 demonstrates superior collection efficiency and more favorable outstanding balance characteristics across multiple comparison dimensions, suggesting a more attractive efficiency–risk profile relative to the alternative portfolio.
+**Key takeaway:** Portfolio 2 consistently outperforms the alternative portfolio across efficiency metrics.
 
 ## Project Structure
-The Jupyter notebook presents the complete analytical workflow, including the full reasoning process, visualizations, and insights derived at each stage of the portfolio comparison.
-The Python script contains the cleaned, reusable data processing and KPI computation logic used throughout the analysis.
+The **Jupyter notebook** presents the complete analytical workflow, including the full reasoning process, visualizations, and insights derived at each stage of the portfolio comparison.
+The **Python script** contains the cleaned, reusable data processing and KPI computation logic used throughout the analysis.
+A minimal `requirements.txt` is provided to ensure reproducibility, and a `.gitignore` is included to exclude environment- and system-specific artifacts.
 
 ## Dataset Overview
 The dataset contains customer-level loan records for defaulted loans only. All identifiers (e.g., country, city) are anonymized and mapped to generic IDs with no real-world linkage.
