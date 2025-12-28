@@ -21,7 +21,7 @@ The **Python script** contains the cleaned, reusable data processing and KPI com
 A minimal `requirements.txt` is provided to ensure reproducibility, and a `.gitignore` is included to exclude environment- and system-specific artifacts.
 
 ## Dataset Overview
-The dataset contains customer-level loan records for defaulted loans only. All identifiers (e.g., country, city) are anonymized and mapped to generic IDs with no real-world linkage.
+The dataset contains customer-level loan records for defaulted loans.
 
 Key quantitative fields include:
 - **Original Sum** – Original loan amount issued to the customer  
